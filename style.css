@@ -1,8 +1,8 @@
 .minhalista {
    color: whitesmoke;
    font-size:30; 
-
 }
+
 
 .listas {
     background: black; 
@@ -13,6 +13,15 @@
    text-align: center;
    background: black;
 
+}
+
+#cabecalho{
+    text-align: center;
+    background: greenyellow;
+    border-bottom-style: solid;
+    margin-left: -5px;
+    margin-right: -5px;
+    margin-top: -5px;
 }
 
 .lista {
@@ -26,7 +35,38 @@
     border: 5px;
     border-style: solid;
     border-color: blue;
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 470px;
+    margin-right: 470;
+
+}
+
+#link {
+    text-align: center;
+
+}
+ 
+p {
+     color: red;
+     font-size: 30;
+     text-align: right;
+
+}
+
+h1 { color: blue;
+     text-align: center;
+     font-size: 50;
+
+}
+
+h2 {
+  
+     color: green;
+     text-align: left;
+     font-size: 40;
+
 }
