@@ -24,6 +24,17 @@
     margin-top: -5px;
 }
 
+.rodape{
+    text-align: center;
+    background: greenyellow;
+    border-top-style: solid;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -30px;
+    padding: 1px;
+
+}
+
 .lista {
    color: whitesmoke;
    font-size: 30;
